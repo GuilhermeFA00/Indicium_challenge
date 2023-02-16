@@ -16,3 +16,5 @@
 <a href="https://colab.research.google.com/drive/1yS7F3KPUaxBWAuVuTbq97UpeIdFCwnqv?usp=sharing">Colab Modelo 2<a/>
 
 <p>Na pasta outcomes estão os arquivos CSV requisitados. Como são dois modelos diferentes, há 2 arquivos
+<br/>
+<p>Os relatórios respondendo as perguntas requisitadas estão na pasta "Reports" <p/>
