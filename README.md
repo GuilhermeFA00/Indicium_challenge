@@ -14,3 +14,5 @@
 <a href="https://colab.research.google.com/drive/18n-CUeryt46_oN08SS6Jo7pXx4YU-2tk?usp=sharing">Colab Modelo 1<a/>
 <br/>
 <a href="https://colab.research.google.com/drive/1yS7F3KPUaxBWAuVuTbq97UpeIdFCwnqv?usp=sharing">Colab Modelo 2<a/>
+
+<p>Na pasta outcomes estão os arquivos CSV requisitados. Como são dois modelos diferentes, há 2 arquivos
